@@ -1,44 +1,43 @@
 <div align="center">
 
-Prajakta 👋
+# 👋 Hi, I'm Prajakta Gudadhe
 
-Aspiring AI Engineer 🤖
+### 🤖 Aspiring AI Engineer
 
-Building practical AI applications and learning by turning ideas into working products.
+**AI & ML • Generative AI • LLMs • Full-Stack Development**
 
 <br>
 
-
-
+<img src="https://komarev.com/ghpvc/?username=prajakta2905&style=for-the-badge&color=6f42c1" />
+<img src="https://img.shields.io/github/followers/prajakta2905?style=for-the-badge&logo=github" />
 
 </div>
 
-🧠 About Me
+---
 
+## 🎓 Education
+
+**B.Tech Graduate — Artificial Intelligence & Machine Learning**  
+**TIT Bhopal**
+
+---
+
+## 🧠 About Me
+
+```js
 const prajakta = {
   role: "Aspiring AI Engineer",
-  interests: ["Generative AI", "AI Agents", "Full-Stack Development"],
-  currentlyBuilding: "AI-powered applications",
-  learning: ["LLMs", "AI Workflows", "Backend Development"],
-  mindset: "Build • Learn • Improve"
+  education: "B.Tech Graduate in Artificial Intelligence & Machine Learning",
+  college: "TIT Bhopal",
+
+  interests: [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Generative AI",
+    "LLM Applications",
+    "AI Agents"
+  ],
+
+  focus: "Building practical AI-powered applications",
+  mindset: "Learn • Build • Improve"
 };
-
-🛠️ Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,java,python,supabase,git,github,vscode,vercel" />
-</p>
-
-🚀 Currently Building
-
-MockMate AI — a resume-aware AI interview coach for personalized interview practice.
-
-🌱 Exploring
-
-Generative AI · LLMs · AI Agents · AI Workflows
-
-<div align="center">
-
-Let's build something useful with AI. 🤖
-
-</div>
